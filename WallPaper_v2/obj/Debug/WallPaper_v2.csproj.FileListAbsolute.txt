@@ -1,0 +1,6 @@
+E:\Work\Projects\WallPaper_v2\WallPaper_v2\bin\Debug\WallPaper_v2.exe.config
+E:\Work\Projects\WallPaper_v2\WallPaper_v2\bin\Debug\WallPaper_v2.exe
+E:\Work\Projects\WallPaper_v2\WallPaper_v2\bin\Debug\WallPaper_v2.pdb
+E:\Work\Projects\WallPaper_v2\WallPaper_v2\obj\Debug\WallPaper_v2.csprojResolveAssemblyReference.cache
+E:\Work\Projects\WallPaper_v2\WallPaper_v2\obj\Debug\WallPaper_v2.exe
+E:\Work\Projects\WallPaper_v2\WallPaper_v2\obj\Debug\WallPaper_v2.pdb

@@ -1,0 +1,5 @@
+Version 2.5 19 September 2017
+Exception Handling Fixed
+
+Version 2
+Ported from PowerShell Script .CMD system to executeable format through C#
